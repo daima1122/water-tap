@@ -42,7 +42,7 @@ var app = new Vue({
         return
       }
       var reg = /^[a-z0-9]{42}$/i
-      if (!address.startsWith('UCT') || !reg.test(address))  {
+      if (!reg.test(address))  {
         this.showMsg(this.lang['message'])
         return
       }
