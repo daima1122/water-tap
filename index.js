@@ -1,16 +1,16 @@
 var langJson = {
   cn: {
-    tit: '寻找测试 (UCT) 币？',
-    p1: '填写您的钱包地址以获得500 UCT，每钱包地址只能获取一次',
-    p2: '我们会在每天的8点，12点，16点，进行测试UCT的发放（迪拜时间）',
+    tit: '寻找测试 (UCC) 币？',
+    p1: '填写您的钱包地址以获得500 UCC，每钱包地址只能获取一次',
+    p2: '我们会在每天的8点，12点，16点，进行测试UCC的发放（迪拜时间）',
     placeholder: '请输入测试钱包地址',
     btn: '提交',
     message: '领取错误，请检查钱包地址后重试'
   },
   en: {
-    tit: 'Looking for Test (UCT) Coins？',
-    p1: 'Fill out your test wallet address to receive 500 UCT , a purse can only be used once',
-    p2: 'We will test UCT distribution daily at 8am,12am,4pm（Dubai Time）',
+    tit: 'Looking for Test (UCC) Coins？',
+    p1: 'Fill out your test wallet address to receive 500 UCC , a purse can only be used once',
+    p2: 'We will test UCC distribution daily at 8am,12am,4pm（Dubai Time）',
     placeholder: 'Test wallet address',
     btn: 'SUBMIT',
     message: 'Receive a mistake, please check the wallet address and try again'
